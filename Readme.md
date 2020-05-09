@@ -28,13 +28,21 @@ java Asn03G08P06
 Example:
 ###### Input:
 Answer the following questions as Yes or No
+
 Is the sum 5 or 9 or 12 or 13 or 15 or 16?
+
 Yes
+
 Is the sum 13 or 12 or 9?
+
 No
+
 Is the sum 15?
+
 No
+
 Is the sum 16?
+
 Yes
 ###### Output:
 Sum=16
