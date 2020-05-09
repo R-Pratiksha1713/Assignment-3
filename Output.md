@@ -3,15 +3,25 @@ The output would display the expected sum.
 Example:
 ###### Input:
 Answer the following questions as Yes or No
+
 Is the sum 5 or 9 or 12 or 13 or 15 or 16?
+
 No
+
 Is the sum 10 or 11?
+
 No
+
 Is the sum 14 or 7 or 8?
+
 Yes
+
 Is the sum 14 or 7?
+
 Yes
+
 Is the sum 14?
+
 No
 ###### Output:
 Sum=7
